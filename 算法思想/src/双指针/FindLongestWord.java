@@ -24,7 +24,7 @@ public class FindLongestWord {
         return maxString.length() == 0 ? "" : maxString;
     }
 
-
+    //双指针，判断str中是否包含sonStr
     private static boolean isInclude(String str, String sonStr) {
         int ptSuper = 0;
         int ptSon = 0;

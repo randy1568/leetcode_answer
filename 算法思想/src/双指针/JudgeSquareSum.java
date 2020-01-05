@@ -1,6 +1,7 @@
 package 双指针;
 
 /**
+ * 633. 平方数之和
  * 判断是否存在a和b，使得 a2+b2 = c
  */
 public class JudgeSquareSum {
